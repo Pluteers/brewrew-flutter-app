@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "d4342299e416a1d16cfcada676a7d3146529681df4cae5f236165646231b7789"
+build_start_time: [1675240073, 378941059]
+build_end_time: [1675240073, 452026844]
+inputs:
+  "/Users/yujinkim/Desktop/brewrew/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1675239897, 509393930]
+  "/Users/yujinkim/Desktop/brewrew/macos/Runner/AppDelegate.swift": !private [1663419889, 917200088]
+  "/Users/yujinkim/Desktop/brewrew/macos/Runner/MainFlutterWindow.swift": !private [1663419889, 920408248]
